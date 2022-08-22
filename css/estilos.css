@@ -1,0 +1,109 @@
+
+body {
+    margin: 0;
+    padding: 0%;
+    font-family:cursive;
+    font-size: 20px;
+    background: rgb(193, 186, 186);
+  }
+  .article{
+    height: 700px;
+  }
+  .receta1{
+    color: black;
+    padding: auto;
+    text-align: center;
+    font-size: 30px
+  }
+
+  .titulo{
+    text-align: center;
+    padding: 0px;
+  }
+
+  .ingredientes{
+    font-size: 15px;
+    background: rgb(150, 172, 155);
+    position: relative;
+    bottom: 310px;
+    left: 270px;
+    width: 960px;
+    height: 165vh;
+    line-height: 1.7em;
+
+}
+    .fotoarroz{ 
+        padding: 10px; 
+        margin: 15px; 
+        border: 2px solid black; 
+        float: right; 
+        width: 350px;
+     }
+  .sidebar {
+    width: 20%;
+    height: 50vh;
+    background: rgb(150, 172, 155);
+    font-size: 0.65em;
+  }
+  
+  .nav {
+    left: 18px;
+    font-size: 15px;
+    position: relative;
+    margin: 0%;
+    top: 40%;
+    transform: translateY(-50%);
+    font-weight: bold;
+    white-space:nowrap;
+
+  }
+  .form{
+    font-size: auto;
+  }
+  .pie{
+    position: absolute;
+    left: 277px;
+    bottom: -98%;
+    width: 961px;
+    height: 60px;
+    background-color:rgb(156, 153, 153);
+  }
+  .logo{ 
+    position: absolute;
+    left: 0px;
+    top: -10px;
+    bottom: -9%;
+    width: 80px;
+    height: 80px;
+ }
+ .insta{ 
+    position: absolute;
+    right: 200px;
+    top: 10px;
+    bottom: 0%;
+    width: 40px;
+    height: 40px;
+ }
+ .fb{ 
+    position: absolute;
+    right: 130px;
+    top: 10px;
+    bottom: 0%;
+    width: 40px;
+    height: 40px;
+ }
+ .tw{ 
+    position: absolute;
+    right: 55px;
+    top: 10px;
+    bottom: 0%;
+    width: 40px;
+    height: 40px;
+ }
+ .derechosdeautor{
+    position: absolute;
+    left: 150px;
+    top: 15px;
+    bottom: -9%;
+ }
+  
