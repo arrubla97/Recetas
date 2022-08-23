@@ -62,8 +62,8 @@ body {
   }
   .pie{
     position: absolute;
-    left: 277px;
-    bottom: -98%;
+    left: 270px;
+    bottom: -96%;
     width: 961px;
     height: 60px;
     background-color:rgb(156, 153, 153);
@@ -106,4 +106,7 @@ body {
     top: 15px;
     bottom: -9%;
  }
-  
+  a{
+    text-decoration: none;
+    color: black;
+  }
